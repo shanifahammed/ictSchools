@@ -42,6 +42,7 @@
 
 ## Files
 Inital project files for reference : https://drive.google.com/file/d/1htLLd-G_voSWR8ZLWpm-SGBhLPXmaVGx/view?usp=sharing
+Project overview video : https://drive.google.com/file/d/1ncEnhDdBXqxjnJLUeHbb4r73T1bL3DHr/view?usp=sharing
 Template : https://www.nobleui.com/laravel/template/light/
 Downloadable template files : 
 
