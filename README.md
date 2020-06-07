@@ -42,9 +42,10 @@
 
 ## Files
 Inital project files for reference : https://drive.google.com/file/d/1htLLd-G_voSWR8ZLWpm-SGBhLPXmaVGx/view?usp=sharing
-Project overview video : https://drive.google.com/file/d/1ncEnhDdBXqxjnJLUeHbb4r73T1bL3DHr/view?usp=sharing
-Template : https://www.nobleui.com/laravel/template/light/
-Downloadable template files : https://drive.google.com/file/d/1l7UvKVvRuKi41rG1eyJlO46IrIMLJnNQ/view?usp=sharing
+Project overview video : https://drive.google.com/file/d/1ncEnhDdBXqxjnJLUeHbb4r73T1bL3DHr/view?usp=sharing \n
+Template : https://www.nobleui.com/laravel/template/light/ \n
+Downloadable template files : https://drive.google.com/file/d/1l7UvKVvRuKi41rG1eyJlO46IrIMLJnNQ/view?usp=sharing \n
+DB Backup file : https://drive.google.com/file/d/17nVq7N8S1NX7mkQl1K0cwN_UErrAiUTm/view?usp=sharing
 
 
 # Instructions
