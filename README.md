@@ -30,14 +30,14 @@
 - [ ] Notification
 
 ## Admin // Shanif
-- [ ] Add teacher - Name, class, subject, is tutor, username, password, number of chapters
-- [ ] Add subjects - Name, number of chapters
-- [ ] Add general tasks - Name, description, image
-- [ ] List teachers - Edit & delete
-- [ ] List subjects - Edit & delete
-- [ ] List videos - Edit & delete
-- [ ] List notes, tasks & assignments - Edit & delete
-- [ ] Notification
+- [x] Add teacher - Name, class, subject, is tutor, username, password, number of chapters  ***done***
+- [x] Add subjects - Name, number of chapters ***done***
+- [x] Add general tasks - Name, description, image ***done***
+- [x] List teachers - Edit & delete ***done***
+- [x] List subjects - Edit & delete  ***done***
+- [x] List videos - Edit & delete  ***done***
+- [x] List notes, tasks & assignments - Edit & delete  ***done***
+- [x] Notification  ***done***
 
 
 ## Files
